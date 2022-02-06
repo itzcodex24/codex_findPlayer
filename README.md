@@ -23,6 +23,5 @@
 * [okokNotify](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758) - Custom Notifications! Credits okok
 * [vRP_findPlayer](https://github.com/DGVaniX/vRP/tree/master/vrp_findPlayer) - Script to track and find the player from their source! Credits @DGVanix
 
-<a href="http://stackoverflow.com" target="_blank">Stack Overflow</a>
 
 **FOR ANY BUSINESS ENQUIRIES/SUPPORT DM ME ON DISCORD - codex.exe#0001**
