@@ -25,3 +25,6 @@
 
 
 **FOR ANY BUSINESS ENQUIRIES/SUPPORT DM ME ON DISCORD - codex.exe#0001**
+
+
+<h6>Current Version : 1.0.0</h6>
