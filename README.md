@@ -14,5 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/70026038/152690749-25fd4dfb-8da5-4f2d-882c-aba538344cb4.png)
 
+* TIP : 💡 Don't forget to edit your menu coords and police group permission in the config.lua file! ⬇️
+
+![image](https://user-images.githubusercontent.com/70026038/152691345-bba2e141-2efc-4610-8c95-0cf31b186192.png)
+
 
 **FOR ANY BUSINESS ENQUIRIES/SUPPORT DM ME ON DISCORD - codex.exe#0001**
