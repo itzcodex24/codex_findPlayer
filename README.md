@@ -18,5 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/70026038/152691345-bba2e141-2efc-4610-8c95-0cf31b186192.png)
 
+** DEPENDENCIES : **
+
+* [okokNotify](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758) - Custom Notifications! Credits okok
+* [vRP_findPlayer](https://github.com/DGVaniX/vRP/tree/master/vrp_findPlayer) - Script to track and find the player from their source! Credits @DGVanix
 
 **FOR ANY BUSINESS ENQUIRIES/SUPPORT DM ME ON DISCORD - codex.exe#0001**
