@@ -16,7 +16,17 @@
 
 * TIP : 💡 Don't forget to edit your menu coords and police group permission in the config.lua file! ⬇️
 
-![image](https://user-images.githubusercontent.com/70026038/152691345-bba2e141-2efc-4610-8c95-0cf31b186192.png)
+```
+Config = {
+    menuCoords = {
+        {-455.93838500976,-2810.7602539062,7.2959337234498}
+    },
+    policeGroup = "police.member",
+    openMenuText = "Press E to open the menu!",
+    errorTextDetails = "No details about the user have been entered!",
+    trackSuccessMessage = "The person has been tracked successfully!",
+}
+```
 
 <h3 align="center">Dependencies</h3>
 
