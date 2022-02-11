@@ -38,13 +38,29 @@ Config = {
 
 ```
 
+<h2 align="center">What to expect in the future?</h2>
+
+```
+In the next version expect the following:
+
+- New UI (Animations, Design etc.)
+- More custom sounds
+- Optimization 
+- See number of cars player owns
+
+If you have any other suggestions add me on discord codex.exe#0001 !
+```
+
+
+
+
 <h3 align="center">Dependencies</h3>
 
 * [okokNotify](https://forum.cfx.re/t/okoknotify-standalone-paid/3907758) - Custom Notifications! Credits okok
 * [vRP_findPlayer](https://github.com/DGVaniX/vRP/tree/master/vrp_findPlayer) - Script to track and find the player from their source! Credits @DGVanix
 
 
-**FOR ANY BUSINESS ENQUIRIES/SUPPORT DM ME ON DISCORD - codex.exe#0001**
+**FOR ANY BUSINESS ENQUIRIES/SUPPORT/SUGGESTIONS DM ME ON DISCORD - codex.exe#0001**
 
 
 <h6>Current Version : 1.0.0</h6>
