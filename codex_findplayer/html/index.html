@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="styles.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="reset.css" type="text/css" /> -->
+        <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+
+        <title>Codex FindPlayer</title>
+    </head>
+    <body>
+        <form action="">
+            <img src="Police_Cap.svg" id="police-cap" alt="" />
+            <div id="container">
+                <div id="left-container">
+                    <div id="top-container">
+                        <div id="avatar-container">
+                            <img
+                                src="avatar.jpg"
+                                alt="Player Avatar"
+                                id="avatar"
+                            />
+                        </div>
+                        <div id="person-data">
+                            <div id="header">
+                                <h1 class="fullname" id="fullname">
+                                    Name :
+                                    <span id="user-fullname">Unknown</span>
+                                </h1>
+                            </div>
+                            <h2 class="age" id="age">
+                                Age : <span id="user-age"> Unknown</span>
+                            </h2>
+                        </div>
+                    </div>
+                    <div id="bottom-container">
+                        <button
+                            id="track-button"
+                            type="button"
+                            class="disabled"
+                        >
+                            Track
+                        </button>
+                    </div>
+                </div>
+                <div id="right-container">
+                    <!-- <div class="exit-container" id="">
+                    <svg
+                        id="close"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="#1BFAAD"
+                        xmlns="http://www.w3.org/2000/svg"
+                    >
+                        <path
+                            d="M19 21H5C3.89543 21 3 20.1046 3 19V15H5V19H19V5H5V9H3V5C3 3.89543 3.89543 3 5 3H19C20.1046 3 21 3.89543 21 5V19C21 20.1046 20.1046 21 19 21ZM11 16V13H3V11H11V8L16 12L11 16Z"
+                            fill="#1BFAAD"
+                        ></path>
+                    </svg>
+                </div> -->
+                    <div id="user-inputs">
+                        <label for="licencePlate" class="label-info">
+                            License Plate :
+                        </label>
+                        <input
+                            type="text"
+                            id="licencePlate"
+                            placeholder="License Plate"
+                            class="user-input"
+                        />
+                    </div>
+                    <div id="info-container">
+                        <button id="get-info">Get Info!</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <script src="./script.js" type="text/javascript"></script>
+    </body>
+</html>
