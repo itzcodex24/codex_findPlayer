@@ -1,4 +1,3 @@
-**COMING SOON**
 <br>
 **Preview : [Video](https://youtu.be/XBZ9XU-3Qck)**
 
