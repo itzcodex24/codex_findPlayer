@@ -1,6 +1,5 @@
 <br>
 
-<h3 style="color:blue">test</h3>
 Preview : https://youtu.be/XBZ9XU-3Qck
 
 <h1 align="center">Codex Police Find Player [vRP] </h1>
